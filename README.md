@@ -26,6 +26,7 @@
 - [SimilarWeb](https://www.similarweb.com/) — Website traffic and engagement analytics.
 - [SpyFu](https://www.spyfu.com/) — Competitor keyword and PPC research.
 - [BuiltWith](https://builtwith.com/) — Technology stack lookup for any website.
+- [GetAppNiche](https://getappniche.com/) — iOS App Store competitive intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 
 ### Open Source
 - [Wappalyzer](https://github.com/wappalyzer/wappalyzer) — Technology profiler for websites.
