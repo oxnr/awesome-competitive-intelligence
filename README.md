@@ -25,6 +25,7 @@
 - [Ahrefs](https://ahrefs.com/) — Backlink analysis and competitive SEO research.
 - [SimilarWeb](https://www.similarweb.com/) — Website traffic and engagement analytics.
 - [SpyFu](https://www.spyfu.com/) — Competitor keyword and PPC research.
+- [Screpy](https://screpy.com/) — Technical SEO audits, rank tracking, and competitor comparison for website visibility.
 - [BuiltWith](https://builtwith.com/) — Technology stack lookup for any website.
 
 ### Open Source
