@@ -19,6 +19,7 @@
 - [Crayon](https://www.crayon.co/) — AI-driven competitive intelligence platform for enterprise teams.
 - [Klue](https://klue.com/) — Competitive enablement for sales teams.
 - [Kompyte](https://www.kompyte.com/) — Automated competitor tracking and battlecards.
+- [AdMapix](https://www.admapix.com/) — AI ad creative intelligence for researching competitor advertising and market signals across mobile games, apps, and ecommerce.
 
 ### Traditional Tools
 - [SEMrush](https://www.semrush.com/) — SEO and competitive research suite.
