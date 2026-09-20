@@ -21,6 +21,8 @@
 - [Kompyte](https://www.kompyte.com/) — Automated competitor tracking and battlecards.
 
 ### Traditional Tools
+
+* [Free Competitor Comparison Tool](https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/free-competitor-comparison-tool.html) — Free browser-based tool for turning structured competitor data into comparison tables; entered data is processed locally in the browser.
 - [SEMrush](https://www.semrush.com/) — SEO and competitive research suite.
 - [Ahrefs](https://ahrefs.com/) — Backlink analysis and competitive SEO research.
 - [SimilarWeb](https://www.similarweb.com/) — Website traffic and engagement analytics.
