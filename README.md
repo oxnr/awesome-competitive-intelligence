@@ -21,6 +21,7 @@
 - [Kompyte](https://www.kompyte.com/) — Automated competitor tracking and battlecards.
 - [AdMapix](https://www.admapix.com/) — AI ad creative intelligence for researching competitor advertising and market signals across mobile games, apps, and ecommerce.
 - [FalcoScan](https://falcoscan.com/) — AI market intelligence with product rankings, competitor tracking and sourced information on shutdowns and acquisitions.
+- [Intelis](https://www.intelis.ai/) — AI competitor price monitoring for ecommerce stores. Matches your products to the same items at competing stores and Google Shopping sellers, tracks price changes, and can reprice within margin rules you set.
 
 ### Traditional Tools
 
