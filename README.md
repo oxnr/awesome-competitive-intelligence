@@ -75,6 +75,7 @@ Free resources for doing competitive intelligence:
 - [G2](https://www.g2.com/) — Software reviews and comparisons.
 - [Capterra](https://www.capterra.com/) — Software comparison platform.
 - [TrustRadius](https://www.trustradius.com/) — B2B technology reviews.
+- [Datacircle](https://datacircle.dev) — Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
 
 ### Market Data
 - [Statista](https://www.statista.com/) — Market statistics and industry reports.
