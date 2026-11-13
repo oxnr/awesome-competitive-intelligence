@@ -32,6 +32,7 @@
 - [EarlyLore](https://earlylore.com/) — Research workspace for founders to study real SaaS products, revenue signals, and competitor product-page changes before building.
 - [Screpy](https://screpy.com/) — Technical SEO audits, rank tracking, and competitor comparison for website visibility.
 - [BuiltWith](https://builtwith.com/) — Technology stack lookup for any website.
+- [Vaneform](https://vaneform.com/) — Free website traffic checker for estimated monthly visits, trends, top countries and traffic sources, plus category leaderboards.
 
 ### Open Source
 - [Wappalyzer](https://github.com/wappalyzer/wappalyzer) — Technology profiler for websites.
