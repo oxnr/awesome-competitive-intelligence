@@ -18,6 +18,7 @@
 - [ZeroIntel](https://zerointel.xyz) — AI-powered competitive intelligence reports. Get detailed competitor analysis for $49-$249 instead of $5K+ from consultants.
 - [Crayon](https://www.crayon.co/) — AI-driven competitive intelligence platform for enterprise teams.
 - [Klue](https://klue.com/) — Competitive enablement for sales teams.
+- [twtData](https://twtdata.com/) — Export a competitor's X (Twitter) followers, following or tweets to CSV.
 - [Kompyte](https://www.kompyte.com/) — Automated competitor tracking and battlecards.
 - [AdMapix](https://www.admapix.com/) — AI ad creative intelligence for researching competitor advertising and market signals across mobile games, apps, and ecommerce.
 - [FalcoScan](https://falcoscan.com/) — AI market intelligence with product rankings, competitor tracking and sourced information on shutdowns and acquisitions.
