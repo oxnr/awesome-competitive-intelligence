@@ -72,6 +72,7 @@ Free resources for doing competitive intelligence:
 - [Crunchbase](https://www.crunchbase.com/) — Startup funding data.
 - [PitchBook](https://pitchbook.com/) — Private company financials and M&A.
 - [Funding Signals](https://fundingsignals.net/) — API for scored SEC Form D funding data to track company capital raises; free tier available.
+- [Crunchbase Company API](https://apify.com/johnvc/crunchbase-company-api) — Apify API that returns a company's Crunchbase profile as JSON (funding, investors, employee count, HQ, status), for checking several competitors in one call; paid per company.
 
 ### Product & Pricing Intelligence
 - [G2](https://www.g2.com/) — Software reviews and comparisons.
