@@ -21,6 +21,7 @@
 - [Kompyte](https://www.kompyte.com/) — Automated competitor tracking and battlecards.
 - [AdMapix](https://www.admapix.com/) — AI ad creative intelligence for researching competitor advertising and market signals across mobile games, apps, and ecommerce.
 - [FalcoScan](https://falcoscan.com/) — AI market intelligence with product rankings, competitor tracking and sourced information on shutdowns and acquisitions.
+- [Adspy](https://www.adspy.sh) — MCP server for researching competitors' public Meta, Google, TikTok and Pinterest ads and organic social posts from Claude, ChatGPT or Codex, with counts and dates (no spend or ROAS).
 
 ### Traditional Tools
 
